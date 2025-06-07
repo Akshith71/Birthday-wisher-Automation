@@ -10,7 +10,7 @@ today = dt.datetime.now().strftime("%d-%b")
 
 # Your Gmail credentials
 your_email = "ponugotiakshit@gmail.com"
-your_password = "necr mmds sglb ofre"  # App Password
+your_password = "Your App password"  # App Password
 
 # Loop through each person in the CSV
 for index, row in df.iterrows():
